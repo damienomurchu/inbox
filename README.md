@@ -1,4 +1,4 @@
-i# Inbox
+# Inbox
 
 Temporary cross-device storage for things that do not yet have a permanent home.
 
